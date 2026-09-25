@@ -1,0 +1,6 @@
+.env
+bloomenv/
+__pycache__/
+*.pyc
+uploads/*
+backend/
